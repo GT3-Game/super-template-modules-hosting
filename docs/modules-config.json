@@ -29,23 +29,26 @@
   "kiss918-gamble-dice": {
     "version": "cb287"
   },
-  "kiss918-jackpot-win": {
-    "version": "fe2fa"
+  "kiss918-gamble-redblack-great-blue": {
+    "version": "c614d"
   },
   "kiss918-gamble-redblack-fruity-fuffi": {
     "version": "9a62f"
   },
-  "kiss918-gamble-redblack-great-blue": {
-    "version": "c614d"
-  },
-  "kiss918-bigwin": {
-    "version": "ad9fe"
+  "kiss918-gamble-redblack-irish-luck": {
+    "version": "8d578"
   },
   "kiss918-menu": {
     "version": "ab4cb"
   },
   "kiss918-jackpot-progression": {
     "version": "9aba9"
+  },
+  "kiss918-jackpot-win": {
+    "version": "fe2fa"
+  },
+  "kiss918-bigwin": {
+    "version": "ad9fe"
   },
   "kiss918-std-gamble-button": {
     "version": "f680f"
