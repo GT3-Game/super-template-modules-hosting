@@ -1,60 +1,64 @@
 {
   "gamble-highcard": {
-    "version": ""
+    "version": "26104"
   },
   "gamble-redblack": {
-    "version": ""
+    "version": "7fda8"
   },
   "jackpot-progression": {
-    "version": "024b0"
+    "version": "8dc00"
   },
   "jackpot-win": {
-    "version": "fd16c"
+    "version": "b5bff"
   },
   "mega888-dollar-ball": {
-    "version": "53733"
+    "version": "b493c"
   },
   "mega888-bigwin": {
-    "version": "1681e"
+    "version": "bf7b9"
   },
   "mega888-menu": {
-    "version": "08d9c"
+    "version": "7c80c"
   },
 
   "kiss918-dollar-ball": {
-    "version": "613ef"
+    "version": "84cc6"
   },
   "kiss918-gamble-coin": {
-    "version": "911c6"
+    "version": "0c316"
   },
   "kiss918-gamble-dice": {
-    "version": "ea8bd"
+    "version": "123d5"
+  },
+  "kiss918-gamble-bigsmall": {
+    "version": "5b34f"
   },
   "kiss918-gamble-redblack-great-blue": {
-    "version": "01c9c"
+    "version": "19abf"
   },
   "kiss918-gamble-redblack-fruity-fuffi": {
-    "version": "cb9d1"
+    "version": "52fa3"
   },
   "kiss918-gamble-redblack-irish-luck": {
-    "version": "8d578"
+    "version": "79bf4"
   },
   "kiss918-menu": {
-    "version": "943eb"
+    "version": "7f70a"
   },
   "kiss918-jackpot-progression": {
-    "version": "9aba9"
+    "version": "e095c"
   },
   "kiss918-jackpot-win": {
-    "version": "fe2fa"
+    "version": "b88e3"
   },
   "kiss918-bigwin": {
-    "version": "ad9fe"
+    "version": "f0992"
   },
   "kiss918-std-gamble-button": {
-    "version": "f680f"
+    "version": "c4e3f"
   },
+
   "loading-page": {
-    "version": "97b11"
+    "version": "26814"
   }
 }
