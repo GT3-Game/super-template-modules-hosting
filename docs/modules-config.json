@@ -57,7 +57,9 @@
   "kiss918-std-gamble-button": {
     "version": "c4e3f"
   },
-
+  "std-gamble-button": {
+    "version": "34381"
+  },
   "loading-page": {
     "version": "26814"
   }
