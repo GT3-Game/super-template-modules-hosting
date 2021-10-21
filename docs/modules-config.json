@@ -6,7 +6,7 @@
     "version": "7fda8"
   },
   "jackpot-progression": {
-    "version": "8dc00"
+    "version": "f99f7"
   },
   "jackpot-win": {
     "version": "6c6ce"
@@ -48,7 +48,7 @@
     "version": "57de0"
   },
   "kiss918-jackpot-progression": {
-    "version": "e095c"
+    "version": "a7e94"
   },
   "kiss918-jackpot-win": {
     "version": "b264d"
@@ -68,10 +68,4 @@
   "loading-page": {
     "version": "26814"
   },
-  "test-jackpot-progression": {
-    "version": "f99f7"
-  },
-  "test-kiss918-jackpot-progression": {
-    "version": "a7e94"
-  }
 }
