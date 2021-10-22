@@ -1,71 +1,71 @@
 {
   "gamble-highcard": {
-    "version": "26104"
+    "version": "31b31"
   },
   "gamble-redblack": {
-    "version": "7fda8"
+    "version": "4c882"
   },
   "jackpot-progression": {
-    "version": "6c4c6"
+    "version": "c3481"
   },
   "jackpot-win": {
-    "version": "6c6ce"
+    "version": "9b02d"
   },
   "mega888-dollar-ball": {
-    "version": "05fa7"
+    "version": "9b5fa"
   },
   "mega888-bigwin": {
-    "version": "37385"
+    "version": "0c9fe"
   },
   "mega888-menu": {
-    "version": "1f208"
+    "version": "bf277"
   },
   "kiss918-dollar-ball": {
-    "version": "84cc6"
+    "version": "fdf24"
   },
   "kiss918-gamble-coin": {
-    "version": "dac93"
+    "version": "d4c66"
   },
   "kiss918-gamble-dice": {
-    "version": "de8e9"
+    "version": "332b5"
   },
   "kiss918-gamble-bigsmall": {
-    "version": "f33cc"
+    "version": "d059f"
   },
   "kiss918-gamble-redblack-great-blue": {
-    "version": "f64e6"
+    "version": "8f1c7"
   },
   "kiss918-gamble-redblack-fruity-fuffi": {
-    "version": "b1d43"
+    "version": "864ac"
   },
   "kiss918-gamble-redblack-irish-luck": {
-    "version": "ad128"
+    "version": "e2e87"
   },
   "kiss918-gamble-redblack-safari-heat": {
-    "version": "d3c1a"
+    "version": "2a628"
   },
   "kiss918-menu": {
-    "version": "57de0"
+    "version": "49b6b"
   },
   "kiss918-jackpot-progression": {
-    "version": "a9ad5"
+    "version": "0b588"
   },
   "kiss918-jackpot-win": {
-    "version": "b264d"
+    "version": "45de4"
   },
   "kiss918-bigwin": {
-    "version": "84c3d"
+    "version": "5f4d1"
   },
   "kiss918-std-gamble-button": {
-    "version": "e6e5c"
+    "version": "99b5a"
   },
   "std-gamble-bigsmall": {
-    "version": "737dc"
+    "version": "451b5"
   },
   "std-gamble-button": {
-    "version": "34381"
+    "version": "6544a"
   },
   "loading-page": {
-    "version": "26814"
+    "version": "05303"
   }
 }
