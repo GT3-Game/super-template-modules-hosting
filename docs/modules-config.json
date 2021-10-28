@@ -68,6 +68,9 @@
   "std-gamble-button": {
     "version": "6544a"
   },
+    "common-menu": {
+    "version": "78542"
+  },
   "loading-page": {
     "version": "05303"
   }
