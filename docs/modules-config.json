@@ -1,119 +1,119 @@
 {
-  "gamble-highcard": {
-    "version": "31b31"
-  },
-  "gamble-redblack": {
-    "version": "4c882"
-  },
-  "jackpot-progression": {
-    "version": "a9697"
-  },
-  "jackpot-win": {
-    "version": "9b02d"
-  },
-  "mega888-dollar-ball": {
-    "version": "9b5fa"
-  },
-  "mega888-bigwin": {
-    "version": "0c9fe"
-  },
-  "mega888-menu": {
-    "version": "04186"
-  },
-  "kiss918-dollar-ball": {
-    "version": "fdf24"
-  },
-  "kiss918-gamble-coin": {
-    "version": "572c9"
-  },
-  "kiss918-gamble-dice": {
-    "version": "d6559"
-  },
-  "kiss918-gamble-bigsmall": {
-    "version": "d059f"
-  },
-  "kiss918-gamble-redblack-great-blue": {
-    "version": "8f1c7"
-  },
-  "kiss918-gamble-dice-panjinlian": {
-    "version": "1ff90"
-  },
-  "kiss918-gamble-redblack-fruity-fuffi": {
-    "version": "864ac"
-  },
-  "kiss918-gamble-redblack-irish-luck": {
-    "version": "e2e87"
-  },
-  "kiss918-gamble-redblack-safari-heat": {
-    "version": "2a628"
-  },
-  "kiss918-gamble-highcard-panther-moon": {
-    "version": "a84c0"
-  },
-  "kiss918-gamble-redblack-laura": {
-    "version": "ee6dd"
-  },
-  "kiss918-gamble-redblack-thai-paradise": {
-    "version": "4276a"
-  },
-  "kiss918-gamble-redblack-samurai": {
-    "version": "b71ee"
-  },
-  "kiss918-gamble-highcard-the-discovery": {
-    "version": "479ab"
-  },
-  "kiss918-gamble-redblack-easter": {
-    "version": "b3641"
-  },
-  "kiss918-gamble-redblack-aladdin": {
-    "version": "58b7a"
-  },
-  "kiss918-gamble-redblack-5dragon": {
-    "version": "765db"
-  },
-  "kiss918-gamble-bigsmall-fortune-panda": {
-    "version": "eb564"
-  },
-  "kiss918-menu": {
-    "version": "ad21d"
-  },
-  "kiss918-type2-menu": {
-    "version": "4b3ee"
-  },
-  "kiss918-jackpot-progression": {
-    "version": "de6bb"
-  },
-  "kiss918-jackpot-win": {
-    "version": "45de4"
-  },
-  "kiss918-bigwin": {
-    "version": "5f4d1"
-  },
-  "kiss918-std-gamble-button": {
-    "version": "99b5a"
-  },
-  "std-gamble-bigsmall": {
-    "version": "451b5"
-  },
-  "std-gamble-button": {
-    "version": "6544a"
-  },
-  "common-menu": {
-    "version": "d61f4"
-  },
-  "x500-menu": {
-    "version": "5a944"
-  },
-  "x500-bigwin": {
-    "version": "2d486"
-  },
-  "x500-dollar-ball": {
-    "version": "185ad"
-  },
-  "loading-page": {
-    "version": "02bb1"
-  },
-  "game-reporter": {
-    "version": "aface"
-  }
+	"gamble-highcard": {
+		"version": "31b31"
+	},
+	"gamble-redblack": {
+		"version": "4c882"
+	},
+	"jackpot-progression": {
+		"version": "a9697"
+	},
+	"jackpot-win": {
+		"version": "9b02d"
+	},
+	"mega888-dollar-ball": {
+		"version": "9b5fa"
+	},
+	"mega888-bigwin": {
+		"version": "0c9fe"
+	},
+	"mega888-menu": {
+		"version": "04186"
+	},
+	"kiss918-dollar-ball": {
+		"version": "fdf24"
+	},
+	"kiss918-gamble-coin": {
+		"version": "572c9"
+	},
+	"kiss918-gamble-dice": {
+		"version": "d6559"
+	},
+	"kiss918-gamble-bigsmall": {
+		"version": "d059f"
+	},
+	"kiss918-gamble-redblack-great-blue": {
+		"version": "8f1c7"
+	},
+	"kiss918-gamble-dice-panjinlian": {
+		"version": "1ff90"
+	},
+	"kiss918-gamble-redblack-fruity-fuffi": {
+		"version": "864ac"
+	},
+	"kiss918-gamble-redblack-irish-luck": {
+		"version": "e2e87"
+	},
+	"kiss918-gamble-redblack-safari-heat": {
+		"version": "2a628"
+	},
+	"kiss918-gamble-highcard-panther-moon": {
+		"version": "a84c0"
+	},
+	"kiss918-gamble-redblack-laura": {
+		"version": "ee6dd"
+	},
+	"kiss918-gamble-redblack-thai-paradise": {
+		"version": "4276a"
+	},
+	"kiss918-gamble-redblack-samurai": {
+		"version": "b71ee"
+	},
+	"kiss918-gamble-highcard-the-discovery": {
+		"version": "479ab"
+	},
+	"kiss918-gamble-redblack-easter": {
+		"version": "b3641"
+	},
+	"kiss918-gamble-redblack-aladdin": {
+		"version": "58b7a"
+	},
+	"kiss918-gamble-redblack-5dragon": {
+		"version": "765db"
+	},
+	"kiss918-gamble-bigsmall-fortune-panda": {
+		"version": "eb564"
+	},
+	"kiss918-menu": {
+		"version": "d2c91"
+	},
+	"kiss918-type2-menu": {
+		"version": "4b3ee"
+	},
+	"kiss918-jackpot-progression": {
+		"version": "de6bb"
+	},
+	"kiss918-jackpot-win": {
+		"version": "45de4"
+	},
+	"kiss918-bigwin": {
+		"version": "5f4d1"
+	},
+	"kiss918-std-gamble-button": {
+		"version": "99b5a"
+	},
+	"std-gamble-bigsmall": {
+		"version": "451b5"
+	},
+	"std-gamble-button": {
+		"version": "6544a"
+	},
+	"common-menu": {
+		"version": "d61f4"
+	},
+	"x500-menu": {
+		"version": "5a944"
+	},
+	"x500-bigwin": {
+		"version": "2d486"
+	},
+	"x500-dollar-ball": {
+		"version": "185ad"
+	},
+	"loading-page": {
+		"version": "02bb1"
+	},
+	"game-reporter": {
+		"version": "aface"
+	}
 }
