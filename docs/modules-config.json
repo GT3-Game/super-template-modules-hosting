@@ -6,10 +6,10 @@
         "version": "4c882"
     },
     "jackpot-progression": {
-        "version": "ef793"
+        "version": "bd37b"
     },
     "jackpot-win": {
-        "version": "3b136"
+        "version": "b35ed"
     },
     "mega888-dollar-ball": {
         "version": "9b5fa"
@@ -114,9 +114,15 @@
         "version": "185ad"
     },
     "loading-page": {
-        "version": "02bb1"
+        "version": "d8b80"
     },
     "game-reporter": {
-        "version": "13f39"
+        "version": "6c46c"
+    },
+    "megah5-menu": {
+        "version": "5a3e6"
+    },
+    "megah5-bigwin": {
+        "version": "5ec04"
     }
 }
