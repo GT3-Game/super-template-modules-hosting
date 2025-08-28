@@ -21,13 +21,19 @@
         "version": "05379"
     },
     "kiss918-menu": {
-        "version": "fd936"
+        "version": "07268"
+    },
+    "kiss918-type2-menu": {
+        "version": "75b79"
+    },
+    "kiss918-type3-menu": {
+        "version": "878c6"
     },
     "kiss918-bigwin": {
         "version": "5f4d1"
     },
     "kiss918-jackpot-progression": {
-        "version": "20d0c"
+        "version": "df7a3"
     },
     "kiss918-jackpot-win": {
         "version": "b8a73"
