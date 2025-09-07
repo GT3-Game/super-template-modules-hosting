@@ -6,7 +6,7 @@
         "version": "f0373"
     },
     "loading-page": {
-        "version": "d8b80"
+        "version": "fd439"
     },
     "game-reporter": {
         "version": "f2342"
@@ -37,5 +37,23 @@
     },
     "kiss918-jackpot-win": {
         "version": "b8a73"
+    },
+    "scr8h5-menu": {
+        "version": "75511"
+    },
+    "scr8h5-type2-menu": {
+        "version": "4704e"
+    },
+    "scr8h5-type3-menu": {
+        "version": "482fb"
+    },
+    "scr8h5-bigwin": {
+        "version": "cf6be"
+    },
+    "scr8h5-jackpot-progression": {
+        "version": "42260"
+    },
+    "scr8h5-jackpot-win": {
+        "version": "7390f"
     }
 }
