@@ -20,6 +20,9 @@
     "general-bundle": {
         "version": "05379"
     },
+	"kissh5-general-bundle":{
+		"version": "66ed6"
+	},
     "kiss918-menu": {
         "version": "07268"
     },
